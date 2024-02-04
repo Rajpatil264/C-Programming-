@@ -1,5 +1,5 @@
 /**
- * Ways to iterate the array
+ * To find the array element by index
  */
 
 // Solution 1
